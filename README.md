@@ -7,7 +7,7 @@ It provides valuable business insights such as top-performing pizzas, revenue br
 
 ## 📸 Dashboard Preview
 
-*(Add a screenshot here once you upload it)*  
+*Home.png*  
 
 ---
 
