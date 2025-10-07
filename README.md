@@ -53,7 +53,7 @@ Dataset: `pizza_sales.csv`
 ## 🧩 SQL Analysis
 
 All SQL queries used in this project are available in the PDF below 👇  
-📄 **[View SQL Queries (PDF)](Pizza's%20Sales%20Sql%20Queries.pdf)**  
+📄 **[View SQL Queries (PDF)](Pizza's Sales Sql Queries.pdf)**  
 
 ### Key Analyses Performed
 - ✅ Total Revenue  
