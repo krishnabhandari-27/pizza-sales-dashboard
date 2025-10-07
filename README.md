@@ -26,7 +26,7 @@ It provides valuable business insights such as top-performing pizzas, revenue br
 
 | Tool | Purpose |
 |------|----------|
-| **MySQL / SQL Server** | Data cleaning, transformation, and querying |
+| **MySQL** | Data cleaning, transformation, and querying |
 | **Power BI** | Dashboard creation and visualization |
 | **Excel / CSV** | Dataset preparation and validation |
 
