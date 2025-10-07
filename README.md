@@ -7,7 +7,7 @@ It provides valuable business insights such as top-performing pizzas, revenue br
 
 ## 📸 Dashboard Preview
 
-*(![Pizza Sales Dashboard](Home.png.png))*  
+*(![Pizza Sales Dashboard](Home.png))*  
 
 ---
 
